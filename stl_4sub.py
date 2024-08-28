@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-import pprint
 import warnings
 from cryptography.utils import CryptographyDeprecationWarning
 
@@ -10,11 +9,8 @@ import sys
 sys.path.append('/home/user/trex/scripts/automation/trex_control_plane/interactive')
 
 from trex_stl_lib.api import *
-import traceback
-import warnings
 import json
 import argparse
-from bin import statistics_show
 
 
 def get_settings():
