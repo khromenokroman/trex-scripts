@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import pprint
 import warnings
 from cryptography.utils import CryptographyDeprecationWarning

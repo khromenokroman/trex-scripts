@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from trex.astf.api import *
 import argparse
  
